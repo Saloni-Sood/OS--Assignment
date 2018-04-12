@@ -6,10 +6,10 @@ Write a multithreaded program that implements the banker's algorithm. Create n t
 Multithreaded Implementation in OS
 
 # Compile Manually
-# compile
+#compile
 gcc bankers_algorithm.c -std=c99 -pthread -o bankers_algorithm
 
-# execute
+#execute
 ./bankers_algorithm
 
 # Input
